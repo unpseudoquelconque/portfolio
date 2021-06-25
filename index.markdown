@@ -35,7 +35,7 @@ feature_row2:
     alt: "P1001946"
     title: "Camera"
     excerpt: "Paris, 2020"
-    url: "/portfolio/camera"
+    url: "/racine"
     btn_label: "Voir"
     btn_class: "btn--primary"
 feature_row3:
@@ -43,7 +43,7 @@ feature_row3:
     alt: "P1002374"
     title: "Rencontre"
     excerpt: "Paris, 2021"
-    url: "/portfolio/neighbor"
+    url: "/beton"
     btn_label: "Voir"
     btn_class: "btn--primary"
 feature_row4:
@@ -51,7 +51,7 @@ feature_row4:
     alt: "P1002216"
     title: "Doute"
     excerpt: "Massay, 2020"
-    url: "/portfolio/head"
+    url: "/visage"
     btn_label: "Voir"
     btn_class: "btn--primary"
 ---
