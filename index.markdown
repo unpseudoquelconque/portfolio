@@ -47,7 +47,7 @@ feature_row3:
     btn_label: "Voir"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: assets/images/image/P1002216.jpg
+  - image_path: assets/images/image/P1002216.JPG
     alt: "P1002216"
     title: "Doute"
     excerpt: "Massay, 2020"
