@@ -31,7 +31,7 @@ feature_row:
     title: "Eau"
     excerpt: "Massay, 2021"
 feature_row2:
-  - image_path: assets/images/image/P1001946.JPG
+  - image_path: assets/images/image/P1001946.jpg
     alt: "P1001946"
     title: "Camera"
     excerpt: "Paris, 2020"
